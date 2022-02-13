@@ -1,3 +1,4 @@
 jq
 mediainfo
 gcc
+pkg-config
